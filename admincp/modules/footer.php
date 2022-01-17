@@ -1,0 +1,1 @@
+<p style="text-align: center; color:#fff">code by Le Manh</p>
